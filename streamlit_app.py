@@ -16,7 +16,7 @@ if st.button("Analyze Symptoms"):
 
         if "fever" in symptoms:
             st.info("Possible causes of fever can include infections or other conditions.")
-            st.write("General information: Rest, stay hydrated, and monitor your temperature.")
+            st.write("General information: Rest, stay hydrated, and monitor your temperature,take 12 sleep.")
 
         elif "cough" in symptoms:
             st.info("Cough can occur with several respiratory conditions.")
