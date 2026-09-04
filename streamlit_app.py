@@ -31,4 +31,5 @@ if st.button("Analyze Symptoms"):
     else:
         st.warning("Please enter your symptoms.")
 
-st.caption("⚠️ Educational project only — not a medical diagnosis.")
+st.caption("⚠️ Educational project 
+only - not a medical diagnosis.")
